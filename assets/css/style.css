@@ -1,0 +1,210 @@
+
+/*colors
+#30bfbf - blauw
+#ffdb59 - geel
+#bdda57 - groen
+#ffaa1d - oranje
+#f08080 - roos */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+/*header*/
+header.home{
+    background-image: url(/assets/images/DTH.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 720px;
+}
+
+img.nav-img{
+    width: 150px;
+}
+
+.nav-link{
+    margin-left: 40px;
+    margin-right: 30px;
+    font-weight: 600;
+    color: white !important;
+}
+
+.nav-link.low{
+    padding-top: 45px;
+}
+
+.navbar{
+    border: 3px solid #30bfbf;
+    border-radius: 0px 0px 0px 100px;
+    background-color:#30bfbf !important;
+}
+
+a{
+    color: white;
+}
+
+div.col-4.yellowbg-bottomright.space{
+    margin-top: 160px;
+    margin-bottom: 160px;
+}
+
+h1.white{
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+}
+
+h2.white{
+    font-size: 16pt;
+    color: white;
+}
+
+
+/*main*/
+p{
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+b.blue{
+    font-size: 20pt;
+    color: #30bfbf;
+}
+
+b.yellow{
+    font-size: 16pt;
+    color: #ffdb59;
+}
+
+img.visual{
+    width: 400px;
+}
+
+.btn.btn-primary{
+    background-color: #ffaa1d;
+    border: 10px solid #ffaa1d;
+    border-radius: 50px;
+}
+
+/*footer*/
+
+footer{
+    background-color: #30bfbf;
+    text-align: right;
+    font-size: 14px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.fa{
+   width: 60px;
+   padding-top: 40px;
+}
+
+.fa-facebook::before{
+    font-size: 30px;
+}
+
+.fa-instagram::before{
+    font-size: 30px;
+}
+
+.fa-twitter-square::before{
+    font-size: 30px;
+}
+
+img.logo{
+    width: 300px;
+}
+
+.ahslogo{
+    width: 150px;
+}
+
+.whiteborder{
+    padding: 30px;
+    border: 10px solid white;
+    border-radius: 0px 0px 90px 0px;
+}
+
+.yellowbg-topleft{
+    background-color: #ffdb59;
+    padding: 30px;
+    border: 10px solid #ffdb59;
+    border-radius: 90px 0px 0px 0px;
+}
+
+.yellowbg-topright{
+    background-color: #ffdb59;
+    padding: 30px;
+    border: 10px solid #ffdb59;
+    border-radius: 0px 90px 0px 0px;
+}
+
+.yellowbg-bottomright{
+    background-color: #ffdb59;
+    padding: 30px;
+    border: 10px solid #ffdb59;
+    border-radius: 0px 0px 90px 0px;
+}
+
+.bluebg-topleft{
+    background-color: #30bfbf;
+    padding: 30px;
+    border: 10px solid #30bfbf;
+    border-radius: 90px 0px 0px 0px;
+}
+
+.bluebg-topright{
+    background-color: #30bfbf;
+    padding: 30px;
+    border: 10px solid #30bfbf;
+    border-radius: 0px 90px 0px 0px;
+}
+
+.bluebg-bottomright{
+    background-color: #30bfbf;
+    padding: 30px;
+    border: 10px solid #30bfbf;
+    border-radius: 0px 0px 90px 0px;
+}
+
+
+
+
+h3{
+    padding-top: 60px;
+}
+
+img{
+    width: 800px;
+}
+
+.sm{
+    width: 300px;
+}
+
+.xsm{
+    width: 200px;
+}
+
+
+img.colors{
+    width: 500px;
+    padding-left: 60px;
+}
+
+
+.blue-sm{
+    color:#30bfbf;
+    font-size: 11pt;
+}
+
+i{
+    font-size: 10pt;
+}
