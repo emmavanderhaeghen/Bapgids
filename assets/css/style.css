@@ -15,7 +15,7 @@
 
 /*header*/
 header.home{
-    background-image: url(/assets/images/DTH.jpg);
+    background-image: url(../images/DTH.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
