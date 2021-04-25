@@ -209,6 +209,14 @@ i{
     font-size: 10pt;
 }
 
+.mockups-small{
+    width: 300px;
+}
+
+.mockups-XS{
+    width: 200px;
+}
+
 .mockups{
     width: 500px;
 }
