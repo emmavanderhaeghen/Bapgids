@@ -119,7 +119,7 @@ footer{
 }
 
 img.logo{
-    width: 300px;
+    width: 200px;
 }
 
 .ahslogo{
@@ -217,6 +217,15 @@ i{
     width: 200px;
 }
 
+.mockups-m{
+    width: 450px;
+}
+
 .mockups{
+    width: 500px;
+}
+
+img.typo{
+    padding: 40px;
     width: 500px;
 }
